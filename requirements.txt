@@ -1,0 +1,9 @@
+PyPI
+pyinstaller
+streamlit 
+pandas
+bottleneck
+p5py
+pep517
+gcc7
+pycaret
